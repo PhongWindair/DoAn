@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Admin\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Admin\source\repos\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.Main.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.Dangnhap.resources
+C:\Users\Admin\source\repos\DoAn\DoAn\obj\Debug\DoAn.Nhanvien.resources
